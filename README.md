@@ -1,4 +1,4 @@
-# tracerout
+# traceroute
 
 Коновалов Артем, ФТ-201
 
